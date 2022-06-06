@@ -1,3 +1,9 @@
 #Conceptos
-
+Concepto de GIT:
+    GIT es un sistema de control de versiones distribuido. 
+  Su propósito es llevar registro de los cambios en archivos de computadora, incluyendo coordinar el trabajo 
+  que varias personas realizan sobre archivos compartidos en un repositorio de código.
+    Este paradigma se diferencia de los sistemas de control de versiones centralizados, donde cada cliente debe sincronizar 
+  el código con el servidor antes de realizar nuevas versiones.
+    Este software está pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones.
 ##
