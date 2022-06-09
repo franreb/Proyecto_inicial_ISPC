@@ -1,5 +1,20 @@
-#Conceptos
+# Conceptos
 
+
+# Concepto de software
+## ISSUE N° 1
+> El software son **PROGRAMAS** que permiten al usuario interactuar con el hardware.
+Existen diferentes tipos de software: **software del sistema, software de aplicación y software de desarrollo** 
+### Software de sistema
+Es aquel que interactua directamente con el hardware, como por ejemplo el sistema operativo o los drivers. Los sistemas operativos son el software base que se encarga de interactuar con el hardware, es decir, lo controla.
+### Software de aplicación
+Funciona por encima del sistema operativo, realizan tareas específicas. El softwsare de aplicación debe ser destinado para el sistema operativo necesario (windows, mac, linux) ya que cada SO tiene su propia arquitectura.
+### Software de desarrollo
+Se usa para crear otro software, ya sea SO, aplicaciones u otros softwares de desarrollo. Por ejemplo los developers trabajan con editores o IDE y allí crean los diferentes programas. 
+
+**Es importante destacar que software permite al hardware realizar las diferentes tareas que debe trabajar, es decir que sin este, el hardware no puede hacer nada**
+
+ 
 # ISSUE N° 4 Concepto de SPRINT:
 El Sprint es un período de corta duración que debe finalizar con un prototipo
 operativo o producto parcialmente entregable. El mismo se repite n veces a
