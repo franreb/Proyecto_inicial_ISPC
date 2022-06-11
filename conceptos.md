@@ -58,6 +58,31 @@ git remote = Te permite ver todos los repositorios remotos
 git pull = Fusiona todos los cambios que se han hecho en el repositorio remoto con el directorio de trabajo local
 git reset = Sirve para resetear el index y el directorio de trabajo al último estado de confirmación
 Para comandos más avanzados de GIT puede visitar el siguiente enlace: https://gist.github.com/dasdo/9ff71c5c0efa037441b6
+ 
+ 
+ 
+ 
+ # ISSUE N° 12  Concepto y Usos de Github
+ 
+GITHUB es una plataforma de social coding GitHub dónde puedes publicar repositorios de código remotos que pueden trabajarse con el sistema de control de versiones Git, dado que está integrado.
+ Este sistema te ofrece la posibilidad de colaborar en otros proyectos y publicar los tuyos propios. 
+La plataforma es de código abierto por defecto, por lo que cualquier persona puede utilizar tu código y tú también puedes ver el código de otros proyectos.
+ Para crear cuenta en Github
+Accede a https://github.com/ y luego, clic en el botón Sign up. 
+Selecciona el plan personal gratuito con repositorio público y sigue las instrucciones. No te olvides de terminar la verificación mediante correo electrónico. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 
 # ISSUE N° 15 Roles en SCRUM
@@ -75,3 +100,10 @@ actúa como un líder servicial, ayudando al equipo y a la organización a usar 
 Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
 
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
+
+ 
+ 
+ 
+ 
+ 
+ 
