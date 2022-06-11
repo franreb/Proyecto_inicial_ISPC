@@ -70,22 +70,24 @@ La plataforma es de código abierto por defecto, por lo que cualquier persona pu
  Para crear cuenta en Github
 Accede a https://github.com/ y luego, clic en el botón Sign up. 
 Selecciona el plan personal gratuito con repositorio público y sigue las instrucciones. No te olvides de terminar la verificación mediante correo electrónico. 
-
  
  
  
  
+ # ISSUE N° 13 Concepto de Issue y como se crea
  
- 
- 
- 
- 
- 
- 
- 
+  Un issue en GitHub es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede  ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo. 
+ Para crear una ISSUE y entender mas acerca de esta para tan importante de GITHUB te dejamos el siguiente video: https://www.youtube.com/watch?v=m1_O7tIBCy4
 
 
-# ISSUE N° 15 Roles en SCRUM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ # ISSUE N° 15 Roles en SCRUM
 
 1.- Product Owner (Dueño del Producto)
 Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo. Esto, que se expresa fácilmente, pero realmente es una tarea que conlleva lo siguiente:
