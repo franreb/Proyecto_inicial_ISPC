@@ -44,13 +44,52 @@ Se usa para crear otro software, ya sea SO, aplicaciones u otros softwares de de
  - La simplicidad o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
  - Las mejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados.
  - A intervalos regulares del equipo refelexiona sobre como ser más afectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia.
- # Procesos Ágiles:
  
- *Programación extrema.
- *Desarrollo de prototipo.
- *Desarrollo rápido de aplicaciónes (RAD).
- *SCRUM.
- 
+##  Proces s  Ágiles
+
+Programacion extrema.
+Desarrollo de prototipo.
+Desarrollo de  aplicaciones.
+
+
+
+
+
+
+
+## ISSUE N°3
+## CONCEPTO SCRUM:
+
+Es un marco de trabajo a traves del cual las personas pueden abordar problemas complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el maximo valor.
+- Es un enfoque ágil para la gestion de un proyecto. Mas que  una metodologia o proceso, es  un MARCO DE TRABAJO.
+- Utiliza procesos interactivos/incrementales.
+- Orientado a resultados y compromisos.
+- No está restrigido a proyectos de software solamente.
+- Su visión es opuesta a la propuesta por la metodologia en cascada.
+**Los equipos de scrum hacen un poco de todo, todo el tiempo, en vez de hacer una sola cosa.
+
+
+**PILAREES
+
+*TRANSPARENCIA:
+-Aspectos significati del proceso deben sr visibles.
+-Definidos en  base a un estándar común.
+Los spectos significativos del prooceso debenr ser visibles para todoos aquellos que son responsables del resultado. La transaparencia requiere que dichos aspectos sean definidos en base a estándar común de tal modo que los observadores copartan un entendimientos común de lo qu e se estan viendo.
+*Por ejemplo: Deben compartir un lenguaje común todos los participantes para referiso al proceso; y aquellos que desempñean el trabajon  y quienes inspecionan el incremento resultante deben compartir una definición  común de "TRERMINADO" (DONE).
+*INSPECCIÓN
+-Deben inspeccionar frecuentemente los artefactos de scrum y el progreso hacia un objetivos para detectar variacuones indeseadas.
+Los usuarios de scru m  deben inspeccionar frecuentemente los artefactos y el prrogreso hacia un objetivos para detectar variacciones indeseadas. Su  inspeccion no debe ser tan frecuente como para que pueda interferir en el trabajo.
+Las inspeccciones son mas beneficiosas cuando se realizan de forma diligente  por inspectores  expertos en el mismolugar de trabajo.
+*Adpaptación:
+-Si se determinan  que uno o mas ascpectos de un proceso desvian de los limites aceptyables y que el producto resultantente será inaceptable, el proceso o el material que esta siendo procesado deben ajustarse. Dicho ajuste deberá relizarse cuantos antes para minimizar desviaciones mayores.
+Si un sector determina que uno o mas aspectos de u proceso se desvían de los límites aceptables y que el el producto resultante será inaceptable el proceso que esta siendo procesado deben ajustarse. Dicho ajuste debrá realizarse cuanto antes para minimizar desviaciones mayores.
+
+
+
+
+
+
+
 # ISSUE N° 4 Concepto de SPRINT:
 El Sprint es un período de corta duración que debe finalizar con un prototipo
 operativo o producto parcialmente entregable. El mismo se repite n veces a
