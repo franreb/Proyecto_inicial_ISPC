@@ -15,6 +15,42 @@ Se usa para crear otro software, ya sea SO, aplicaciones u otros softwares de de
 **Es importante destacar que software permite al hardware realizar las diferentes tareas que debe trabajar, es decir que sin este, el hardware no puede hacer nada**
 
  
+ #    ISSUE N°2
+ 
+ ## MANFIESTO AGILE:
+ El Manifiesto Ágil es un documento redactado en 2001 por 17 expertos en programación que supuso un cambio radical en la forma de desarrollar 'software'. Frente a los modelos tradicionales —excesivamente rígidos y alejados de las necesidades de los clientes—, estos gurús propusieron cuatro valores que inspiran las diferentes metodologías ágiles que han surgido desde entonces. Aunque nació en el mundo del 'software', la filosofía que promueve este manifiesto es extensible al desarrollo de cualquier otro producto.
+ 
+ ## Valores:
+ - Valorar a los individuos por encima de los procesos.
+ - El software funciona por encima de la documentación exhaustiva.
+ - La colaboración del cliente por encima de la negociación contractual.
+ - La respuesta al cambio por encima del seguimiento de un plan.
+ 
+ ## Principios Agile:
+ - Predisposición estrecha y respuesta al cambio.
+ - Desarrollo  incremental con entregas frecuentes de funcionalidad.
+ - Comunicación verbal directa.
+ - Simplicidad, solo artefactos necesarios.
+ - Motivación, compromiso y resónsabilidad del equipo por la autogestión y autoorganización.
+ - Nuestra mayor prioridad es satisfacer al cliente mediante la entrega temprana y continua de software con valor.
+ - Aceptamos que los requisitos cambien, incluso en estapas de desarrollo. Los procesos Ágiles aprovechan el cambio para proporcionar ventaja competitiva al cliente.
+ - Entregamos software funcional frecuentemente entre dos semanas y dos meses con preferencia al periodoto de tiempo mas corto posible.
+ - Los responsables de negocio y desarrolladores trabajan juntos de forma cotidiana durante todo el proyecto.
+ - Los proyectos se desarrollan entorno a individuos motivados. Hay que darles el apoyo que necesitan y confiarles las ejecución del trabajo.
+ - El método de trabajo mas eficiente y efectivo de comunicar información al equipo de desarrollo y entre sus miembros es la conversación cara a cara.
+ - El software funcionando es la medida principal de progreso.
+ - Los procesos Ágiles promueven el desarrollo sostenible. Los promotores, desarrolladores y usuarios debemos ser capaces de mantener un ritmo constante de forma indefinida.
+ - La atención continua a la excelencia técnica y al buen diseño mejora la agilidad.
+ - La simplicidad o el arte de maximizar la cantidad de trabajo no realizado, es esencial.
+ - Las mejores arquitecturas, requisitos y diseños emergen de equipos auto-organizados.
+ - A intervalos regulares del equipo refelexiona sobre como ser más afectivo para a continuación ajustar y perfeccionar su comportamiento en consecuencia.
+ # Procesos Ágiles:
+ 
+ *Programación extrema.
+ *Desarrollo de prototipo.
+ *Desarrollo rápido de aplicaciónes (RAD).
+ *SCRUM.
+ 
 # ISSUE N° 4 Concepto de SPRINT:
 El Sprint es un período de corta duración que debe finalizar con un prototipo
 operativo o producto parcialmente entregable. El mismo se repite n veces a
