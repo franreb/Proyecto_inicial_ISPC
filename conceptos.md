@@ -154,9 +154,20 @@ Selecciona el plan personal gratuito con repositorio público y sigue las instru
   Un issue en GitHub es una unidad de trabajo designada para realizar una mejora en un sistema informático. Puede  ser el arreglo de un fallo, una característica pedida, una tarea, una solicitud de documentación en específico y todo tipo de ideas o sugerencias al equipo de desarrollo. 
  Para crear una ISSUE y entender mas acerca de esta para tan importante de GITHUB te dejamos el siguiente video: https://www.youtube.com/watch?v=m1_O7tIBCy4
 
-
+# ISSUE N° 14 Concepto de Milestone y como se genera
  
+Son categorías que se utilizan para tener un filtro más adecuado de la información. Cada milestone puede tener una fecha programada indicando el tiempo que es necesario para cumplir cierta tarea
  
+ GitHub Milestones pueden ayudar a los equipos de desarrollo a:
+- planear iteraciones cortas de trabajo y organizar los issues en un plazo de tiempo.
+- hacer un seguimiento del proyecto como parte de un objetivo más amplio, como una lista trimestral de tareas pendientes, una función importante, etc. Luego, observe el progreso general de su hito en la página de hitos.
+ 
+ PASOS PARA CREAR UN MILESTONE.
+ 1_En GitHub.com, visita la página principal del repositorio.
+ 2_Vamos a la pestaña issues.
+ 3_click en milestones y luego new milestones.
+ 4_llegamos el titulo, fecha y descrpción.
+ 5_crear milestones.
  
  
  
@@ -178,7 +189,17 @@ Grupo de profesionales con los conocimientos técnicos necesarios y que desarrol
 
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
 
- 
+ # ISSUE N° 18 Ventajas de GIT
+1_ Sistema distribuido, que permite el trabajo incluso sin conexión.
+2_ Super rápido y ligero, optimizado para hacer operaciones de control muy rápidas.
+3_ Crear ramas y mezclarlas poco propenso a problemas.
+4_ La integridad de la información está asegurada gracias a su modelo de almacenamiento, que permite predecir este tipo de problemas. 
+5_ Permite flujos de trabajo muy flexibles.
+6_ El concepto de área de preparación o staging permite versionar los cambios como nos convenga, no todo o nada.
+7_ Operaciones locales
+8_ Copias instantáneas
+
+
  
  
  
