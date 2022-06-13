@@ -105,7 +105,7 @@ afectar al objetivo del Sprint (Sprint Goal);
 • Los objetivos de calidad no disminuyen;
 • El alcance puede clarificarse y renegociarse entre el Propietario del Producto Product Owner) y el Equipo de Desarrollo a medida que se va aprendiendo más. 
 
-#issue N°5 Scrum Team
+# issue N°5 Scrum Team
 La unidad fundamental de Scrum es un pequeño equipo de personas, un Scrum Team. El Scrum Team
 consta de un Scrum Master, un Product Owner y Developers. Dentro de un Scrum Team, no hay
 subequipos ni jerarquías. Es una unidad cohesionada de profesionales enfocados en un objetivo a la vez,
