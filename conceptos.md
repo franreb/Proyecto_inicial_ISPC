@@ -211,6 +211,18 @@ actúa como un líder servicial, ayudando al equipo y a la organización a usar 
 Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos de tiempos pequeños, cuya duración es de 1 a 4 semanas, con preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de calidad llamado definición de terminado.
 
 Estos tres roles de Scrum se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
+ 
+ # Issue N°17 Developers
+
+Las personas del Scrum Team que se comprometen a crear cualquier aspecto de un Increment utilizable
+en cada Sprint son Developers.
+Las habilidades específicas que necesitan los Developers suelen ser amplias y variarán según el ámbito
+de trabajo. Sin embargo, los Developers siempre son responsables de:
+● Crear un plan para el Sprint, el Sprint Backlog;
+● Inculcar calidad al adherirse a una Definición de Terminado;
+● Adaptar su plan cada día hacia el Objetivo del Sprint; y,
+6
+● Responsabilizarse mutuamente como profesionales.
 
  # ISSUE N° 18 Ventajas de GIT
 1_ Sistema distribuido, que permite el trabajo incluso sin conexión.
