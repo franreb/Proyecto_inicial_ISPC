@@ -128,6 +128,32 @@ Todo el Scrum Team es responsable de crear un Increment valioso y útil en cada 
 tres responsabilidades específicas dentro del Scrum Team: los Developers, el Product Owner y el Scrum
 Master.
 
+
+# ISSUE N°8
+## Artefactos en SCRUM:
+Los usuarios de Scrum deben inspeccionar frecuentemente los Artefactos de Scrum y el progreso hacia un objetivo para detectar variaciones indeseadas.
+Los tres principales artefactos o herramientas Scrum son: el Product Backlog, Sprint Backlog y el Incremento.
+El Product Backlog
+Es un inventario que contiene cualquier tipo de trabajo que haya que hacer en el producto: requerimientos, casos de uso, tareas y dependencias. Es la principal fuente de información sobre el producto en Scrum. El Product Backlog debe ser gestionado en exclusiva por el Product Owner, una lista, en cualquier formato, que contiene todos los requerimientos que necesitamos implementar en el producto. Esta lista es el resultado del trabajo del Product Owner con el cliente, los distintos stakeholders, sponsors, comités, etc, y refleja el estado real del trabajo pendiente de implementar en el producto, así como el ya realizado. 
+
+Sprint Backlog
+Se trata de una lista de elementos en los que trabajar durante la etapa de Sprint. Estos elementos normalmente se componen de tareas técnicas más pequeñas que permiten conseguir un incremento de software terminado. Este artefacto es un elemento para visualizar el trabajo a realizar durante cada Sprint y está gestionado por el equipo de desarrollo. Su propósito es mantener la transparencia dentro del desarrollo, actualizándolo durante toda la iteración especialmente a través de los daily Scrums.
+
+Incremento
+Un Incremento es el resultado del Sprint, es la suma de todas las tareas, casos de uso, historias de usuario y cualquier elemento que se haya desarrollado durante el Sprint y que será puesto a disposición del usuario final en forma de software, aportando un valor de negocio al producto que se está desarrollando.
+Construir software de manera ágil se basa en hacerlo de manera iterativa e incremental. Mediante las iteraciones, nos aseguramos que todo el ciclo de vida del software
+
+Otros artefactos:
+
+Definition of Done (DoD): La DoD es un documento que define qué se considera hecho en un equipo Scrum. La idea es establecer una serie de criterios comunes para especificar cuando un ítem está completamente terminado y que aplique a todos los ítems que forman parte del incremento.
+
+Definition of Ready (DoR): El DoR es un documento que define cuándo un requerimiento (historia de usuario o similar) se considera listo para que el equipo de desarrollo pueda entenderlo, valorarlo e incluirlo en un Sprint Planning con idea de acometerlo en un Sprint.
+
+Burndown Chart: El Burndown Chart es un gráfico de trabajo pendiente a lo largo del tiempo que muestra la velocidad a la que se están completando los objetivos, requisitos, o historias de usuarios. Permite extrapolar si el equipo podrá completar el trabajo en el tiempo estimado.
+
+
+
+
 # ISSUE N° 9 Concepto de GIT:
     GIT es un sistema de control de versiones distribuido. 
   Su propósito es llevar registro de los cambios en archivos de computadora, incluyendo coordinar el trabajo 
