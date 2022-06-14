@@ -128,6 +128,25 @@ Todo el Scrum Team es responsable de crear un Increment valioso y útil en cada 
 tres responsabilidades específicas dentro del Scrum Team: los Developers, el Product Owner y el Scrum
 Master.
 
+# ISSUE N°7
+## Sprint Review
+Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el Product Owner.
+El equipo presenta la funcionalidad terminada al Product Owner y demás stakeholders. - Los miembros del equipo responden preguntas de los stakeholders en relación a la demostración, y toman nota de los cambios propuestos. - Al finalizar la presentación, los stakeholders dan su impresión acerca del producto, cambios deseados y prioridad de esos cambios.
+
+El Sprint Review tiene un timebox de hasta cuatro horas para un Sprint de un mes. Si tenemos Sprints más cortos, la duración de esta ceremonia será adecuadamente más corta.
+
+¿Qué temas deben ser discutidos en el Sprint Review?
+*Características “terminadas”
+Todo el equipo Scrum expone los elementos del Product Backlog que se han “Terminado” (pasaron el DoD) y los que no.
+*Exposición del Incremento del producto
+Los Developers presentan el Incremento de Producto, comentan qué problemas surgieron y de qué manera los afrontaron.
+*Estado actual y proyección del Backlog
+El Product Owner habla acerca del Product Backlog en su estado actual y proyecta futuros objetivos y fechas de entrega basadas en esta nueva información. Debate y análisis para el Sprint Planning
+Todos los participantes debaten en base al análisis de cómo está el mercado y el uso potencial del producto, sobre qué hacer a continuación. De este modo la Sprint Review proporciona información de entrada valiosa para el próximo evento: la Sprint Planning.
+*Revisión del Release Plan
+Se revisa y actualiza el Release Plan o plan de entregas del producto y los cambios que hayan podido surgir, como cambios en el presupuesto y las capacidades de el/los equipo/s.
+
+
 
 # ISSUE N°8
 ## Artefactos en SCRUM:
