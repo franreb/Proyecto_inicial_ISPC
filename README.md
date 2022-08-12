@@ -3,4 +3,4 @@ Repositorio en el cual vamos a realizar nuestros primeros pasos en GitHub de man
 
 Primer tarea grupal: Completar conceptos.md con el material correspondiente de cada Issue.
 
-Segunda tarea: Realizar la evaluaci{on final correspondiente al módulo "programador"
+Segunda tarea: Realizar la evaluación final correspondiente al módulo "programador"
