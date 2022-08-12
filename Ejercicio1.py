@@ -1,0 +1,6 @@
+#Ejercicio 1 - Python - Montivero Axel Ezequiel
+
+Dueno = ["28957346", "Juan","Perez","4789689","Belgrano 101"]
+
+if Dueno[0] > "26000000":
+    print("El Telefono del dueño es: ",Dueno[3])
